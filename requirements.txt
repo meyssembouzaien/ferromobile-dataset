@@ -1,0 +1,15 @@
+geopandas>=1.0,<2.0
+itur==0.4.0
+matplotlib>=3.7,<4.0
+networkx>=3.0,<4.0
+numba==0.64.0
+numpy>=1.24,<2.0
+osmnx==2.0.7
+pandas>=2.0,<3.0
+pyproj>=3.5,<4.0
+pyshp==3.0.3
+rasterio==1.4.4
+ray==2.54.1
+requests==2.32.5
+scipy>=1.10,<2.0
+shapely>=2.0,<3.0
